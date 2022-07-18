@@ -1,0 +1,15 @@
+C:\Users\Akashic Records\Desktop\ReposBoot\InterfaceEXE\InterfaceEXE\InterfaceEXE\bin\Debug\net6.0\InterfaceEXE.exe
+C:\Users\Akashic Records\Desktop\ReposBoot\InterfaceEXE\InterfaceEXE\InterfaceEXE\bin\Debug\net6.0\InterfaceEXE.deps.json
+C:\Users\Akashic Records\Desktop\ReposBoot\InterfaceEXE\InterfaceEXE\InterfaceEXE\bin\Debug\net6.0\InterfaceEXE.runtimeconfig.json
+C:\Users\Akashic Records\Desktop\ReposBoot\InterfaceEXE\InterfaceEXE\InterfaceEXE\bin\Debug\net6.0\InterfaceEXE.dll
+C:\Users\Akashic Records\Desktop\ReposBoot\InterfaceEXE\InterfaceEXE\InterfaceEXE\bin\Debug\net6.0\InterfaceEXE.pdb
+C:\Users\Akashic Records\Desktop\ReposBoot\InterfaceEXE\InterfaceEXE\InterfaceEXE\obj\Debug\net6.0\InterfaceEXE.csproj.AssemblyReference.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\InterfaceEXE\InterfaceEXE\InterfaceEXE\obj\Debug\net6.0\InterfaceEXE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akashic Records\Desktop\ReposBoot\InterfaceEXE\InterfaceEXE\InterfaceEXE\obj\Debug\net6.0\InterfaceEXE.AssemblyInfoInputs.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\InterfaceEXE\InterfaceEXE\InterfaceEXE\obj\Debug\net6.0\InterfaceEXE.AssemblyInfo.cs
+C:\Users\Akashic Records\Desktop\ReposBoot\InterfaceEXE\InterfaceEXE\InterfaceEXE\obj\Debug\net6.0\InterfaceEXE.csproj.CoreCompileInputs.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\InterfaceEXE\InterfaceEXE\InterfaceEXE\obj\Debug\net6.0\InterfaceEXE.dll
+C:\Users\Akashic Records\Desktop\ReposBoot\InterfaceEXE\InterfaceEXE\InterfaceEXE\obj\Debug\net6.0\refint\InterfaceEXE.dll
+C:\Users\Akashic Records\Desktop\ReposBoot\InterfaceEXE\InterfaceEXE\InterfaceEXE\obj\Debug\net6.0\InterfaceEXE.pdb
+C:\Users\Akashic Records\Desktop\ReposBoot\InterfaceEXE\InterfaceEXE\InterfaceEXE\obj\Debug\net6.0\InterfaceEXE.genruntimeconfig.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\InterfaceEXE\InterfaceEXE\InterfaceEXE\obj\Debug\net6.0\ref\InterfaceEXE.dll
